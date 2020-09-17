@@ -3,10 +3,8 @@
 !aw https://wiki.archlinux.org/index.php?search={{{s}}}
 !ddg https://duckduckgo.com/?q={{{s}}}
 !g https://encrypted.google.com/search?q={{{s}}}
-!gh https://github.com/search?q={{{s}}}
 !gi https://google.com/search?q={{{s}}}&tbm=isch
 !gm https://maps.google.com/maps?q={{{s}}}
-!hn https://hn.algolia.com/?q={{{s}}}
 !pdb https://www.protondb.com/search?q={{{s}}}
 !r https://www.reddit.com/search?q={{{s}}}
 !s https://startpage.com/do/metasearch.pl?query={{{s}}}
