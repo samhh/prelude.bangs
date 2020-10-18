@@ -8,5 +8,5 @@
 !pdb https://www.protondb.com/search?q={{{s}}}
 !r https://www.reddit.com/search?q={{{s}}}
 !s https://startpage.com/do/metasearch.pl?query={{{s}}}
-!sr https://reddit.com/r/{{{s}}}
+!sr https://www.reddit.com/r/{{{s}}}
 !yt https://www.youtube.com/results?search_query={{{s}}}
