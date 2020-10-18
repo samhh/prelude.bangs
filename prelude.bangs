@@ -6,6 +6,7 @@
 !gi https://google.com/search?q={{{s}}}&tbm=isch
 !gm https://maps.google.com/maps?q={{{s}}}
 !gplay https://play.google.com/store/search?q={{{s}}}
+!pcgw http://pcgamingwiki.com/index.php?search={{{s}}}
 !pdb https://www.protondb.com/search?q={{{s}}}
 !r https://www.reddit.com/search?q={{{s}}}
 !s https://startpage.com/do/metasearch.pl?query={{{s}}}
